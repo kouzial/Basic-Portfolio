@@ -177,3 +177,17 @@ form{
 	background-color: #4aaaa5;
 	color: #ffffff;
 }
+.profile-img {
+	float: left;
+	margin: 10px;
+}
+
+.set-to-inline li{
+	display:inline;
+	padding-right: 10px;
+	margin-left:15px;
+	border-right: 2px solid #cccccc;
+}
+.set-to-inline li:last-child {
+	border-right: none;
+}
